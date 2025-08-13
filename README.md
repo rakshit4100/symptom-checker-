@@ -53,9 +53,7 @@ Users can input symptoms in natural language (e.g., “I have a sore throat and 
 ## Project Status
 The AI agent has been deployed and is operational, leveraging IBM’s robust AI and cloud infrastructure.
 
-## Certifications
-- IBM Credly Certificate: Getting Started with AI
-- IBM RAG Lab Certificate
+
 
 ## Acknowledgments
 This project was developed as part of the IBM SkillBuild program.
